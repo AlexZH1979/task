@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+    <quadrangle a.x="100" a.y="100" b.x="100" b.y="200" c.x="200" c.y="200" d.x="200" d.y="100"/>
+    <triangle a.x="150" a.y="150" b.x="130" b.y="230" c.x="40" c.y="20"/>
+</main>
